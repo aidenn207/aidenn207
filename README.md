@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aidenn207
+- 👋 Hi, I’m Aiden
 - 👀 I’m interested in Mobile Applications, Android Applications,
 - 🌱 I’m currently learning to be a DEV beast
 - 💞️ I’m looking to collaborate on Mobile Applications
